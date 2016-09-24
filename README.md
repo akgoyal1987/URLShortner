@@ -13,8 +13,8 @@ if you have mongoDB Installed on some remote machine. then update in app.js file
 
 then just run
 
-```npm install```
+`npm install`
 
 #### Now you are done with setup :), it is time to run the application and start using.
 
-to use the applicaiton just start it by using ```npm start``` and then access ```localhost:3000```.
+to use the applicaiton just start it by using `npm start` and then access `localhost:3000`.
