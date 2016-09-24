@@ -9,7 +9,7 @@ Mongodb Should Be Installed On  Your Machine
 
 if you have mongoDB Installed on some remote machine. then update in app.js file on line
 
-```mongoose.connect('mongodb://localhost/test');```
+`mongoose.connect('mongodb://localhost/test');`
 
 then just run
 
